@@ -1,4 +1,4 @@
-# The Paper Trail
+# The List of Things I've Read and Worked Through
 
 This should serve a list of books that I have read or am reading.  By the end of my disertation, I hope this list has become a filter of what I have found interesting and useful.
 
